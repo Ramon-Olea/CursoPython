@@ -5,6 +5,6 @@ if velocidadasteroide > 25 and tamaño > 25:
 elif velocidadasteroide >= 20:
     print("advertencia!!! buscar un asteroide en el cielo")
 elif tamaño < 25:
-     print("No hay asteroides en el cielo")
+     print("No hay asteroide en el cielo")
 else:
-     print("No hay asteroides en el cielo")
+     print("No hay asteroide en el cielo")
